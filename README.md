@@ -1,5 +1,6 @@
 ## Oi, Eu sou Danilo Teixeira 👋
-- 🌱 Estudando Análise e desenvolvimento de sistemas
+- 🌱 Estudante de Ciência da computação
+- 🌱 Técnico em Análise e desenvolvimento de sistemas
 - 📫 Contate-me no email: dantecarvalho2803@gmail.com 
 
 <div align="center">
