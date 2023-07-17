@@ -29,4 +29,4 @@
 
    ![Snake animation](https://github.com/danilot1/danilot1/blob/output/github-contribution-grid-snake.svg)
   
-  </div
+  </div>
