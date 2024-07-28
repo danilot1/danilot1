@@ -1,4 +1,4 @@
-## Oi, Eu sou Danilo Teixeira 👋
+## Oi, Eu sou Danilo Teixeira 👋 
 - 🌱 Estudante de Ciência da computação
 - 📫 Contate-me no email: dantecarvalho2803@gmail.com 
 
